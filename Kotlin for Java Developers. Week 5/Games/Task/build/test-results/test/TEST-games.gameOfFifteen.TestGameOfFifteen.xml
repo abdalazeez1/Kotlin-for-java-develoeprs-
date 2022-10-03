@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.gameOfFifteen.TestGameOfFifteen" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-03T06:08:38" hostname="DESKTOP-8L8N87T" time="0.013">
+  <properties/>
+  <testcase name="testMoves" classname="games.gameOfFifteen.TestGameOfFifteen" time="0.013"/>
+  <testcase name="testWinning" classname="games.gameOfFifteen.TestGameOfFifteen" time="0.0"/>
+  <system-out><![CDATA[This is primary constructor
+list [3, 6, 13, 15, 7, 5, 8, 4, 14, 11, 12, 1, 10, 9, 2, null]
+((1, 1), 3)  ,((1, 2), 6)  ,((1, 3), 13)  ,((1, 4), 15)  ,
+((2, 1), 7)  ,((2, 2), 5)  ,((2, 3), 8)  ,((2, 4), 4)  ,
+((3, 1), 14)  ,((3, 2), 11)  ,((3, 3), 12)  ,((3, 4), 1)  ,
+((4, 1), 10)  ,((4, 2), 9)  ,((4, 3), 2)  ,((4, 4), null)  ,
+ find 4  , 4
+get 1  1  3  (1, 1)
+get 1  2  6  (1, 2)
+get 1  3  13  (1, 3)
+get 1  4  15  (1, 4)
+get 2  1  7  (2, 1)
+get 2  2  5  (2, 2)
+get 2  3  8  (2, 3)
+get 2  4  4  (2, 4)
+get 3  1  14  (3, 1)
+get 3  2  11  (3, 2)
+get 3  3  12  (3, 3)
+get 3  4  1  (3, 4)
+get 4  1  10  (4, 1)
+get 4  2  9  (4, 2)
+get 4  3  null  (4, 3)
+get 4  4  2  (4, 4)
+ find 4  , 3
+get 1  1  3  (1, 1)
+get 1  2  6  (1, 2)
+get 1  3  13  (1, 3)
+get 1  4  15  (1, 4)
+get 2  1  7  (2, 1)
+get 2  2  5  (2, 2)
+get 2  3  8  (2, 3)
+get 2  4  4  (2, 4)
+get 3  1  14  (3, 1)
+get 3  2  11  (3, 2)
+get 3  3  null  (3, 3)
+get 3  4  1  (3, 4)
+get 4  1  10  (4, 1)
+get 4  2  9  (4, 2)
+get 4  3  12  (4, 3)
+get 4  4  2  (4, 4)
+ find 3  , 3
+get 1  1  3  (1, 1)
+get 1  2  6  (1, 2)
+get 1  3  13  (1, 3)
+get 1  4  15  (1, 4)
+get 2  1  7  (2, 1)
+get 2  2  5  (2, 2)
+get 2  3  8  (2, 3)
+get 2  4  4  (2, 4)
+get 3  1  14  (3, 1)
+get 3  2  11  (3, 2)
+get 3  3  1  (3, 3)
+get 3  4  null  (3, 4)
+get 4  1  10  (4, 1)
+get 4  2  9  (4, 2)
+get 4  3  12  (4, 3)
+get 4  4  2  (4, 4)
+ find 3  , 4
+get 1  1  3  (1, 1)
+get 1  2  6  (1, 2)
+get 1  3  13  (1, 3)
+get 1  4  15  (1, 4)
+get 2  1  7  (2, 1)
+get 2  2  5  (2, 2)
+get 2  3  8  (2, 3)
+get 2  4  4  (2, 4)
+get 3  1  14  (3, 1)
+get 3  2  11  (3, 2)
+get 3  3  1  (3, 3)
+get 3  4  2  (3, 4)
+get 4  1  10  (4, 1)
+get 4  2  9  (4, 2)
+get 4  3  12  (4, 3)
+get 4  4  null  (4, 4)
+ find 4  , 4
+get 1  1  3  (1, 1)
+get 1  2  6  (1, 2)
+get 1  3  13  (1, 3)
+get 1  4  15  (1, 4)
+get 2  1  7  (2, 1)
+get 2  2  5  (2, 2)
+get 2  3  8  (2, 3)
+get 2  4  4  (2, 4)
+get 3  1  14  (3, 1)
+get 3  2  11  (3, 2)
+get 3  3  1  (3, 3)
+get 3  4  2  (3, 4)
+get 4  1  10  (4, 1)
+get 4  2  9  (4, 2)
+get 4  3  null  (4, 3)
+get 4  4  12  (4, 4)
+This is primary constructor
+list [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, null]
+((1, 1), 1)  ,((1, 2), 2)  ,((1, 3), 3)  ,((1, 4), 4)  ,
+((2, 1), 5)  ,((2, 2), 6)  ,((2, 3), 7)  ,((2, 4), 8)  ,
+((3, 1), 9)  ,((3, 2), 10)  ,((3, 3), 11)  ,((3, 4), 12)  ,
+((4, 1), 13)  ,((4, 2), 14)  ,((4, 3), 15)  ,((4, 4), null)  ,
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

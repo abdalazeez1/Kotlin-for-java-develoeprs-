@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.game2048.TestMoveValuesInRowOrColumn" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-03T06:08:38" hostname="DESKTOP-8L8N87T" time="0.006">
+  <properties/>
+  <testcase name="testRow" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.001"/>
+  <testcase name="testRowReversed" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.001"/>
+  <testcase name="testColumn" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.001"/>
+  <testcase name="testNoMove" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.001"/>
+  <testcase name="testColumnReversed" classname="games.game2048.TestMoveValuesInRowOrColumn" time="0.001"/>
+  <system-out><![CDATA[This is primary constructor
+from Mergeeer [2, 4]
+2222222222222222This is primary constructor
+from Mergeeer [4, 2]
+2222222222222222This is primary constructor
+1..4
+from Mergeeer [2, 4]
+2222222222222222This is primary constructor
+from Mergeeer [2, 4, 2, 4]
+2222222222222222This is primary constructor
+4..1
+from Mergeeer [4, 2]
+2222222222222222]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

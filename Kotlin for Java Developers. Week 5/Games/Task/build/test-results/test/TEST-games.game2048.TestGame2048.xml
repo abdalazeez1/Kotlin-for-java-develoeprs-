@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.game2048.TestGame2048" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-03T06:08:38" hostname="DESKTOP-8L8N87T" time="0.023">
+  <properties/>
+  <testcase name="testMoves" classname="games.game2048.TestGame2048" time="0.023"/>
+  <system-out><![CDATA[This is primary constructor
+222222222222222222from Mergeeer []
+from Mergeeer [4]
+from Mergeeer []
+from Mergeeer []
+from Mergeeer []
+222222222222222221..4
+from Mergeeer []
+1..4
+from Mergeeer []
+1..4
+from Mergeeer [4]
+1..4
+from Mergeeer []
+1..4
+from Mergeeer [4]
+22222222222222222from Mergeeer []
+from Mergeeer [8]
+from Mergeeer []
+from Mergeeer []
+from Mergeeer [2]
+222222222222222224..1
+from Mergeeer []
+4..1
+from Mergeeer [2, 8]
+4..1
+from Mergeeer [2]
+4..1
+from Mergeeer []
+4..1
+from Mergeeer []
+22222222222222222from Mergeeer []
+from Mergeeer []
+from Mergeeer []
+from Mergeeer [8]
+from Mergeeer [4, 2]
+222222222222222224..1
+from Mergeeer []
+4..1
+from Mergeeer []
+4..1
+from Mergeeer []
+4..1
+from Mergeeer [4]
+4..1
+from Mergeeer [4, 8]
+22222222222222222from Mergeeer []
+from Mergeeer [4]
+from Mergeeer []
+from Mergeeer [8]
+from Mergeeer [8]
+222222222222222224..1
+from Mergeeer []
+4..1
+from Mergeeer [2]
+4..1
+from Mergeeer []
+4..1
+from Mergeeer []
+4..1
+from Mergeeer [16, 4]
+222222222222222224..1
+from Mergeeer []
+4..1
+from Mergeeer [2]
+4..1
+from Mergeeer []
+4..1
+from Mergeeer [2]
+4..1
+from Mergeeer [16, 4]
+22222222222222222from Mergeeer []
+from Mergeeer []
+from Mergeeer [2]
+from Mergeeer [4]
+from Mergeeer [16, 4]
+22222222222222222from Mergeeer []
+from Mergeeer [2]
+from Mergeeer [2]
+from Mergeeer [4]
+from Mergeeer [4, 16]
+222222222222222224..1
+from Mergeeer []
+4..1
+from Mergeeer [8, 4]
+4..1
+from Mergeeer [16, 2]
+4..1
+from Mergeeer []
+4..1
+from Mergeeer []
+22222222222222222]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
